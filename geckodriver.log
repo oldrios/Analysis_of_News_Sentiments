@@ -1,0 +1,883 @@
+1594693944541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofilegactkU"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594693948114	Marionette	INFO	Listening on port 52965
+1594693948162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594693974296	Marionette	INFO	Stopped listening on port 52965
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+1594694076542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofilehifHJR"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594694079057	Marionette	INFO	Listening on port 53132
+1594694079161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594694155809	Marionette	INFO	Stopped listening on port 53132
+1594694245642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileLQxai8"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594694248820	Marionette	INFO	Listening on port 53324
+1594694249253	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594694325084	Marionette	INFO	Stopped listening on port 53324
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+[Child 6784, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1594694511273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofile9zXVIN"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594694513467	Marionette	INFO	Listening on port 53536
+1594694513888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594694602421	Marionette	INFO	Stopped listening on port 53536
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+1594694626173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileUBbIFC"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594694628031	Marionette	INFO	Listening on port 53709
+1594694628179	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594694715633	Marionette	INFO	Stopped listening on port 53709
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: IDBDatabase.transaction: Can't start IndexedDB transaction during shutdown
+1594694798039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofile4JRpIN"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594694799976	Marionette	INFO	Listening on port 53886
+1594694800057	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 14444, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 14444, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1594705281973	Marionette	INFO	Stopped listening on port 53886
+g on port 54031
+1594694837911	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39001D,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x21004D,name=PBrowser::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x210092,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x21004D,name=PBrowser::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x210092,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x21004D,name=PBrowser::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x210092,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x21004D,name=PBrowser::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x210092,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 14368, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 14368, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1594705279501	Marionette	INFO	Stopped listening on port 54031
+e 66: Error: Can't find profile directory.
+1594695273066	Marionette	INFO	Listening on port 55042
+1594695273302	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594695337620	Marionette	INFO	Stopped listening on port 55042
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+1594695342202	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileQqo5gD"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594695344234	Marionette	INFO	Listening on port 55226
+1594695344339	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594695408739	Marionette	INFO	Stopped listening on port 55226
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+1594695413105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileH03VT0"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594695415518	Marionette	INFO	Listening on port 55384
+1594695415713	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594695479905	Marionette	INFO	Stopped listening on port 55384
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+1594695484068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofile1o02x7"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594695486211	Marionette	INFO	Listening on port 55579
+1594695486678	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594695647510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileeM94EJ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594695649415	Marionette	INFO	Listening on port 56059
+1594695649525	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594695716494	Marionette	INFO	Stopped listening on port 56059
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+[Child 11324, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1594695721058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileOkJDsC"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594695723140	Marionette	INFO	Listening on port 56233
+1594695723173	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594695787901	Marionette	INFO	Stopped listening on port 56233
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+JavaScript error: resource://gre/modules/IndexedDB.jsm, line 370: UnknownError: IDBDatabase.transaction: Can't start IndexedDB transaction during shutdown
+1594695792364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofiled7IgMK"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594695794596	Marionette	INFO	Listening on port 56416
+1594695794973	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileoJPnXB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594695805017	Marionette	INFO	Listening on port 56452
+1594695805513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594700608495	Marionette	INFO	Stopped listening on port 56452
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+sable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileeINHAv"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594695897547	Marionette	INFO	Listening on port 56543
+1594695897869	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012F,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+mp\\rust_mozprofileesGhdx"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594695989295	Marionette	INFO	Listening on port 56723
+1594695989658	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Child 15428, DOM Worker] WARNING: failed to create pipe: 5: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 228
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6003E,name=PBackground::Msg_PClientManagerConstructor) Channel error: cannot send/recv
+
+[Child 15428, Chrome_ChildThread] W6: Error: Can't find profile directory.
+1594696024899	Marionette	INFO	Listening on port 56944
+1594696025125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594696090309	Marionette	INFO	Stopped listening on port 56944
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+1594696096194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofile2I3egC"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594696100199	Marionette	INFO	Listening on port 57140
+1594696100310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofile6wam8q"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594697044256	Marionette	INFO	Listening on port 57523
+1594697044424	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.n.dynstc.com/ads_creative/v2/story/785/c-83674_1593830159.php?v=1593830408, line 1: SecurityError: The operation is insecure.
+1594697110615	Marionette	INFO	Stopped listening on port 57523
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://eus.rubiconproject.com/usync.html?&geo=sa&co=br, line 12: SecurityError: The operation is insecure.
+1594702841565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofilee4LfWz"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594702850317	Marionette	INFO	Listening on port 55599
+1594702850530	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 47ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1594702858858	Marionette	INFO	Stopped listening on port 55599
+1594703004911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileKVkTg2"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594703007522	Marionette	INFO	Listening on port 55715
+1594703008020	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 57ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1594703032725	Marionette	INFO	Stopped listening on port 55715
+1594703039851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileG5qCn7"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594703042570	Marionette	INFO	Listening on port 55795
+1594703042969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 36ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1594703047425	Marionette	INFO	Stopped listening on port 55795
+1594703056752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofiles0ipWb"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594703059164	Marionette	INFO	Listening on port 55869
+1594703059366	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 38ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1594703064872	Marionette	INFO	Stopped listening on port 55869
+1594703188473	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileDUFFBJ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594703190718	Marionette	INFO	Listening on port 55962
+1594703191084	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 31ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1594703196191	Marionette	INFO	Stopped listening on port 55962
+1594703319485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileiv4asi"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594703321269	Marionette	INFO	Listening on port 56061
+1594703321492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.sonoticiaboa.com.br/brasil/, line 547: ReferenceError: ryb_ready is not defined
+JavaScript error: https://www.sonoticiaboa.com.br/brasil/, line 595: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofilepwbfN6"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594703354681	Marionette	INFO	Listening on port 56120
+1594703354800	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.sonoticiaboa.com.br/brasil/, line 547: ReferenceError: ryb_ready is not defined
+JavaScript error: https://www.sonoticiaboa.com.br/brasil/, line 595: ReferenceError: jQuery is not defined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofilevF9Xw3"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594703437044	Marionette	INFO	Listening on port 56189
+1594703437120	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 38ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofile88m3sb"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594703472787	Marionette	INFO	Listening on port 56297
+1594703472943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 51ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1594703478429	Marionette	INFO	Stopped listening on port 56297
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1594703556676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileEvs05q"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594703562006	Marionette	INFO	Listening on port 56381
+1594703562391	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 48ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofile8WnqDl"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594703731450	Marionette	INFO	Listening on port 56566
+1594703731475	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 38ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofilePPXyCt"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594703744096	Marionette	INFO	Listening on port 56667
+1594703744562	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 46ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofile1CBKrA"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594703869308	Marionette	INFO	Listening on port 56833
+1594703869670	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 141ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofilejek031"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594704360068	Marionette	INFO	Listening on port 57120
+1594704360119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 40ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileTuOr6g"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594704429818	Marionette	INFO	Listening on port 57254
+1594704430158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 40ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofile3qTJjx"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594704464861	Marionette	INFO	Listening on port 57369
+1594704465184	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 52ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileUHMOrk"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594704504286	Marionette	INFO	Listening on port 57478
+1594704504417	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 45ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1594704520526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofilezpYCn7"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594704533612	Marionette	INFO	Listening on port 57598
+1594704533672	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 46ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1594704596392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileVagTTh"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594704604820	Marionette	INFO	Listening on port 57735
+1594704604848	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 48ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1594704708293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofilejupXMQ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594704724379	Marionette	INFO	Listening on port 57922
+1594704724542	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 173ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1594704772964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileS6LdX3"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594704784022	Marionette	INFO	Listening on port 58070
+1594704784487	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 42ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1594704828827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileC2dmKC"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594704842566	Marionette	INFO	Listening on port 58206
+1594704842954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 60ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1594704941223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofile1x8CCf"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594704952071	Marionette	INFO	Listening on port 58357
+1594704952289	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 59ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1594780406512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileq6I8aN"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594780411187	Marionette	INFO	Listening on port 62768
+1594780411272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 176ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileOBiBif"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594780496071	Marionette	INFO	Listening on port 62872
+1594780496573	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 132ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileO8562J"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594780549803	Marionette	INFO	Listening on port 62967
+1594780549873	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 149ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofile1BUDmD"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594780613703	Marionette	INFO	Listening on port 63075
+1594780613992	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 158ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileaChhkO"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594780739014	Marionette	INFO	Listening on port 63255
+1594780739316	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 170ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofile1ZHNp1"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594781363951	Marionette	INFO	Listening on port 63686
+1594781365114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 103ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofilerEBQO7"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594781438191	Marionette	INFO	Listening on port 63852
+1594781438298	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594781444986	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+1594781445044	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofilelo5hvA"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594781531912	Marionette	INFO	Listening on port 63998
+1594781532163	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594781541780	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: https://s.yimg.com/av/yap/ga/yap.js, line 1: TypeError: h is null
+efox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileyBiMAn"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594783118446	Marionette	INFO	Listening on port 65457
+1594783118962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594783201497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileQHS4oJ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594783225679	Marionette	INFO	Listening on port 49302
+1594783225890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594783247363	Marionette	WARN	TimedPromise timed out after 0 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+Sleep@chrome://marionette/content/sync.js:283:10
+dispatchPause@chrome://marionette/content/action.js:1482:10
+toEvents/<@chrome://marionette/content/action.js:1156:16
+action.dispatchTickActions@chrome://marionette/content/action.js:1060:35
+action.dispatch/chainEvents<@chrome://marionette/content/action.js:1028:20
+action.dispatch@chrome://marionette/content/action.js:1034:5
+performActions@chrome://marionette/content/listener.js:853:16
+dispatch/</req<@chrome://marionette/content/listener.js:527:14
+dispatch/<@chrome://marionette/content/listener.js:520:15
+JavaScript error: https://virtz.r7.com/ line 704 > scriptElement, line 1: ReferenceError: analyticsHelper is not defined
+1594842576049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileO1CM8u"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594842584555	Marionette	INFO	Listening on port 52312
+1594842584968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594842784708	Marionette	INFO	Stopped listening on port 52312
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000D,name=PBackgroundIDBDatabase::Msg_Invalidate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+[Parent 10408, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 10408, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1594856462709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileNLTGIc"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594856478213	Marionette	INFO	Listening on port 55612
+1594856478508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 35ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1594856493121	Marionette	INFO	Stopped listening on port 55612
+1594856572382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofile0GLbED"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594856575953	Marionette	INFO	Listening on port 55758
+1594856576011	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 31ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1594856619357	Marionette	INFO	Stopped listening on port 55758
+1594857050548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileCv1pa7"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594857052914	Marionette	INFO	Listening on port 55930
+1594857053175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 43ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1594857075938	Marionette	INFO	Stopped listening on port 55930
+1594864921354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileXCllIN"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594864945415	Marionette	INFO	Listening on port 56622
+1594864945854	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 175ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1594864995074	Marionette	INFO	Stopped listening on port 56622
+1594865192671	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileYH2BNa"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594865199230	Marionette	INFO	Listening on port 56753
+1594865200395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 191ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1594865362463	Marionette	INFO	Stopped listening on port 56753
+1594865608238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofilemO8jbg"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594865612149	Marionette	INFO	Listening on port 56905
+1594865613210	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 97ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: uncaught exception: Object
+-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileNzj8My"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594866296675	Marionette	INFO	Listening on port 57058
+1594866297971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 158ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1594867345162	Marionette	INFO	Stopped listening on port 57058
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":2213,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:2213","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:923","chrome://marionette/content/driver.js:GeckoDriver.prototype.quit:3512","chrome://marionette/content/server.js:despatch:305","chrome://marionette/content/server.js:execute:275","chrome://marionette/content/server.js:onPacket/<:248","chrome://marionette/content/server.js:onPacket:249","chrome://marionette/content/transport.js:_onJSONObjectReady/<:501"]}] Barrier: quit-application-granted
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+1594873499600	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofilezKD13E"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594873512453	Marionette	INFO	Listening on port 57681
+1594873513157	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://veja.abril.com.br/noticias-sobre/tragedia/ line 6 > scriptElement, line 11: TypeError: secondP is undefined
+JavaScript error: https://www.gstatic.com/mysidia/c076655cb9c8db650bb54cbf58ece910.js?tag=video_mra/web_fig_och, line 176: SecurityError: The operation is insecure.
+1594873563647	Marionette	INFO	Stopped listening on port 57681
+1594873617449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileY2QUj1"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594873621605	Marionette	INFO	Listening on port 57828
+1594873621703	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://veja.abril.com.br/noticias-sobre/tragedia/ line 6 > scriptElement, line 11: TypeError: secondP is undefined
+1594873662555	Marionette	INFO	Stopped listening on port 57828
+1594873704574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileFgyOSF"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594873709202	Marionette	INFO	Listening on port 57973
+1594873709322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594873893855	Marionette	INFO	Stopped listening on port 57973
+1594874889374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofiledSzrif"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594874893318	Marionette	INFO	Listening on port 58292
+1594874893516	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js, line 195: TypeError: url is undefined
+JavaScript warning: https://z.moatads.com/yahoodisplay873773666324/moatad.js#moatClientLevel1=Yahoo!&moatClientLevel2=247372&moatClientLevel3=1238248&moatClientLevel4=2543374&moatClientSlicer1=4&moatClientSlicer2=0&zMoatAuctionID=6346874263640088992:1594874903225&zMoatAdReqDomain=exame.com, line 258: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/yahoodisplay873773666324/moatad.js#moatClientLevel1=Yahoo!&moatClientLevel2=247372&moatClientLevel3=1238248&moatClientLevel4=2543374&moatClientSlicer1=4&moatClientSlicer2=0&zMoatAuctionID=6346874263640088992:1594874903225&zMoatAdReqDomain=exame.com, line 258: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/yahoodisplay873773666324/moatad.js#moatClientLevel1=Yahoo!&moatClientLevel2=247372&moatClientLevel3=1238248&moatClientLevel4=2543374&moatClientSlicer1=4&moatClientSlicer2=0&zMoatAuctionID=6346874263640088992:1594874903225&zMoatAdReqDomain=exame.com, line 258: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/yahoodisplay873773666324/moatad.js#moatClientLevel1=Yahoo!&moatClientLevel2=247372&moatClientLevel3=1238248&moatClientLevel4=2543374&moatClientSlicer1=4&moatClientSlicer2=0&zMoatAuctionID=6346874263640088992:1594874903225&zMoatAdReqDomain=exame.com, line 258: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://s.yimg.com/ch/html5/75d023a5-6b3a-46bc-9cec-b0636c1fc3ab/3571c0d5-e78d-4715-beee-9f7c11a25f47.html, line 279: ReferenceError: clickTAG is not defined
+1594875129678	Marionette	INFO	Stopped listening on port 58292
+JavaScript warning: https://s.yimg.com/rq/iv/inside.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s.yimg.com/rq/iv/inside.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s.yimg.com/rq/iv/inside.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://s.yimg.com/rq/iv/inside.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594876186874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofilerYiofO"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1594876188898	Marionette	INFO	Listening on port 58697
+1594876189050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 0: Successfully compiled asm.js code (total compilation time 36ms)
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 292: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d281e75zdqqlon.cloudfront.net/wp-content/cache/wpfc-minified/f3lk46pn/6lv1o.js, line 293: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.00px.net/static/space.min.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.00px.net/static/space.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.00px.net/static/space.min.js, line 1: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.00px.net/static/space.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1594876307365	Marionette	INFO	Stopped listening on port 58697
+1595018276106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofileWJ9caM"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595018291365	Marionette	INFO	Listening on port 51139
+1595018291829	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://veja.abril.com.br/ultimas-noticias/ line 6 > scriptElement, line 11: TypeError: secondP is undefined
+1595018317059	Marionette	INFO	Stopped listening on port 51139
+1595021694956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "--headless" "--no-sandbox" "--disable-dev-shm-usage" "-foreground" "-no-remote" "-profile" "C:\\Users\\oldaq\\AppData\\Local\\Temp\\rust_mozprofilejgO8iW"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595021699512	Marionette	INFO	Listening on port 52638
+1595021700853	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595021707179	Marionette	INFO	Stopped listening on port 52638
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012D,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
